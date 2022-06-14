@@ -1,2 +1,2 @@
-# HelloWorld
- Primeiro repositório git e github
+# Hello World
+ Primeiro repositório Git e Github
